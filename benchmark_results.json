@@ -1,0 +1,12 @@
+{
+  "GQA-ru": {
+    "accuracy": 25.0,
+    "total_samples": 20,
+    "correct": 5
+  },
+  "MMBench-ru": {
+    "accuracy": 0.0,
+    "total_samples": 20,
+    "correct": 0
+  }
+}
